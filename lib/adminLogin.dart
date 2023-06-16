@@ -173,11 +173,7 @@ class _AdminLoginState extends State<AdminLogin> {
               TextButton(
                 child: Text('OK'),
                 onPressed: () {
-                  Navigator.of(context).push(
-                    MaterialPageRoute(
-                      builder: (context) => AdminPanel(),
-                    ),
-                  );
+                  Navigator.of(context).pop();
                 },
               ),
             ],
