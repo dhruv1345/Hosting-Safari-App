@@ -6,7 +6,7 @@ Created an App for startup. This app helps them to easily manage their user data
 ## Screen Views
 
 ### Home Screen
-<img src="https://github.com/dhruv1345/Hosting-Safari-App/assets/86596711/951270cc-cb72-421c-a1d0-6de93e53bfd6" width="200" />
+<img src="https://github.com/dhruv1345/Hosting-Safari-App/assets/86596711/951270cc-cb72-421c-a1d0-6de93e53bfd6" width="250" />
 
 ### Admin Login
 ![admin login](https://github.com/dhruv1345/Hosting-Safari-App/assets/86596711/d41f30a1-b631-457d-ac79-6d5ce5016e5c)
